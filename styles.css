@@ -1,0 +1,27 @@
+* {
+    background-color: red;
+    color: rgb(110, 207, 239);
+}
+.TooBig {
+    width: 750px;
+    height: 750px;
+}
+.supermariobros {
+    position: absolute;
+    left: 50%;
+}
+a {
+    color: yellow;
+}
+.dumb {
+    width: 250px;
+    height: 200px;
+}
+.dumber {
+    width: 300px;
+    height: 250px;
+}
+.dumbest {
+    width: 300px;
+    height: 200px;
+}
